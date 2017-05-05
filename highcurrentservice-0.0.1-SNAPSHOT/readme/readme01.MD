@@ -1,0 +1,2 @@
+定义entity实体Seckill和successSeckill
+Seckill表示秒杀信息的实体,successSeckill表示表示成功后信息记录实体.
