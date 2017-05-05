@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="highcurrentservice-0.0.1-SNAPSHOT:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="high-current-service.war">
+      <element id="artifact" artifact-name="highcurrentservice-0.0.1-SNAPSHOT:war exploded" />
+    </root>
+  </artifact>
+</component>
